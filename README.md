@@ -33,16 +33,16 @@ Before running Star Gaze, ensure you have the following installed:
 - Make utility (optional)
 
 ## Instructions for Use
-Clone the repository: git clone https://github.com/your-username/star-gaze.git
-Navigate to the project directory: cd star-gaze
-Compile the Program: `gcc ft.cpp -o ft`
-Run the Program: `./FT`
+1. Clone the repository: git clone https://github.com/your-username/star-gaze.git
+2. Navigate to the project directory: cd star-gaze
+3. Compile the Program: `gcc ft.cpp -o ft`
+4. Run the Program: `./FT`
 
 ## Usage
-Execute the compiled program
-Follow the on-screen prompts to enter your date of birth and personal details.
-Choose from the menu to view your horoscope.
-If an error is made during input, the program provides an opportunity to correct it. 
-After viewing the horoscope, press any key to continue or follow on-screen instructions.
+1. Execute the compiled program
+2. Follow the on-screen prompts to enter your date of birth and personal details.
+3. Choose from the menu to view your horoscope.
+4. If an error is made during input, the program provides an opportunity to correct it.
+5. After viewing the horoscope, press any key to continue or follow on-screen instructions.
 
 Enjoy exploring the stars with Star Gaze!
